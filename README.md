@@ -6,7 +6,7 @@ A lightweight implementation of Ethereum's devp2p protocol. This project provide
 - Node discovery and peer management
 - Secure communication using ECDSA keys
 - Configurable network parameters
-- ebug logging
+- debug logging
 - Bootnode support
 
 ### Installation
