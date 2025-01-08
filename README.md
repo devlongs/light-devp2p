@@ -7,7 +7,7 @@ A lightweight implementation of Ethereum's devp2p protocol. This project provide
 - Secure communication using ECDSA keys
 - Configurable network parameters
 - debug logging
-- Bootnode support
+- Bootnode supports
 
 ### Installation
 ```bash
